@@ -11,6 +11,6 @@ Este repositorio contiene ejemplos prácticos de los principales patrones de arq
 
 ## Integrantes
 
-- Juan Sebastian
+- Joan Sebastian
 - Duvan Felipe
 - Luis Alberto
